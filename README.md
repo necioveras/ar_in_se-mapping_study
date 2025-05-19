@@ -10,9 +10,9 @@ This study was submitted to the SBES 2025 – Brazilian Symposium on Software En
 
 The repository includes the following files:
 
-- `selected_studies_list.pdf`: List of the 9 primary studies included in the final analysis;
-- `rejected_studies_list.pdf`: List of the 1293 studies excluded during the study;
-- `data_extraction_table.xlsx`: Spreadsheet containing the extracted data mapped to each research question (RQ1 to RQ7);
+- `selected_studies_list.csv`: List of the 9 primary studies included in the final analysis;
+- `rejected_studies_list.csv`: List of the 1293 studies excluded during the study;
+- `data_extraction_table.csv`: Spreadsheet containing the extracted data mapped to each research question (RQ1 to RQ7);
 
 ## 🔍 Study Overview
 
